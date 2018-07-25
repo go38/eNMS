@@ -1,8 +1,8 @@
 ============
-What is eNMS
+什麼是 eNMS ?
 ============
 
-eNMS is an open source web application designed to help automate networks.
+eNMS 是一個開放程式碼的網頁應用系統 designed to help automate networks.
 While network automation traditionally requires scripting skills, eNMS provides a way to automate networks **graphically**.
 It encompasses the following aspects of network automation:
 
