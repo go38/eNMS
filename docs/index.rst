@@ -31,7 +31,7 @@ Automation
 
    automation/index
 
-Tasks
+任務Tasks
 =====
 
 .. toctree::
